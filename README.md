@@ -4,6 +4,8 @@
 
 This project is a RESTful API built with Django, designed to provide detailed information about various courses offered in a program. It allows users to retrieve course descriptions, credits, prerequisites, and other relevant details in a structured format.
 
+![API](https://github.com/Kami80/django-api/blob/main/api.png)
+
 ## Features
 
 - **Course Listing**: Access a list of all available courses.
